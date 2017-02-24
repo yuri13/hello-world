@@ -1,0 +1,16 @@
+[1mdiff --git a/readme.txt b/readme.txt[m
+[1mindex 52dcb72..02641d9 100644[m
+[1m--- a/readme.txt[m
+[1m+++ b/readme.txt[m
+[36m@@ -3,4 +3,8 @@[m [mWORLD[m
+ how[m
+ are[m
+ you[m
+[31m-?[m
+\ No newline at end of file[m
+[32m+[m[32m?[m[41m[m
+[32m+[m[32mYo[m[41m[m
+[32m+[m[32mHow[m[41m[m
+[32m+[m[32mGoes[m[41m [m
+[32m+[m[32mIt?[m
+\ No newline at end of file[m
